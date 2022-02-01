@@ -1,4 +1,3 @@
-/*
 const linkDown = document.querySelector('.link--down');
 const secondSection = document.querySelector('.section--about');
 const secondSectionY = secondSection.offsetTop;
